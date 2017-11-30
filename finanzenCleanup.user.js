@@ -7,6 +7,7 @@
 // @match        http://www.finanzen.net/*
 // @match        https://www.finanzen.net/*
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 try { var nodeList = document.getElementById("sky-container"); nodeList.parentNode.removeChild(nodeList); }
