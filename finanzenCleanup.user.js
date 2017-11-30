@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Finanzen.net Cleanup & Adblock
 // @namespace    https://github.com/zyrill/FinanzenNetCleaner
-// @version      0.1
+// @version      0.1.1
 // @description  Cleanup Finanzen.net and remove some ads
 // @author       zyrill
 // @match        http://www.finanzen.net/*
