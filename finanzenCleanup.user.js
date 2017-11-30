@@ -4,8 +4,8 @@
 // @version      0.1
 // @description  Cleanup Finanzen.net and remove some ads
 // @author       zyrill
-// @match        http://www.finanzen.net/
-// @match        https://www.finanzen.net/
+// @match        http://www.finanzen.net/*
+// @match        https://www.finanzen.net/*
 // @grant        none
 // ==/UserScript==
 
