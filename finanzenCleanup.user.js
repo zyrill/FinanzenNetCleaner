@@ -1,14 +1,15 @@
 // ==UserScript==
 // @name         Finanzen.net Cleanup & Adblock
 // @namespace    https://github.com/zyrill/FinanzenNetCleaner
-// @version      0.1.1
+// @version      0.1.2
 // @description  Cleanup Finanzen.net and remove some ads
 // @author       zyrill
 // @match        http://www.finanzen.net/*
 // @match        https://www.finanzen.net/*
 // @grant        none
 // @license      MIT
-// @license      GPL-2.0
+// @updateURL    https://openuserjs.org/meta/zyrill/Finanzen.net_Cleanup_Adblock.meta.js
+// @copyright    2017, zyrill (https://openuserjs.org/users/zyrill)
 // ==/UserScript==
 
 try { var nodeList = document.getElementById("sky-container"); nodeList.parentNode.removeChild(nodeList); }
