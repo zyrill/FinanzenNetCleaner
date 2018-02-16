@@ -7,6 +7,7 @@
 // @match        http://www.finanzen.net/*
 // @match        https://www.finanzen.net/*
 // @grant        none
+// @license      MIT
 // @license      GPL-2.0
 // ==/UserScript==
 
